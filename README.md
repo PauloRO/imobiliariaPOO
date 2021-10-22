@@ -1,9 +1,23 @@
-Olá, esse é um trabalho da faculdade da materia Programação Orientada a Objetos que foi desenvolvido por mim e outros colegas.
-O projeto é sobre um sistema de imobiliaria, onde foi dividido em 3 partes.
-Projeto feito inteiramente na linguagem Java.
+Trabalho da materia Programação Orientada a Objetos desenvolvido na faculdade.
 
-1ª parte do trabalho consistia em fazer o UML do projeto.
-2ª parte foi codifica esse UML.
-3ª parte foi fazer as interface graficas do sistemas, telinhas bem simples.
+Consistia em desenvolver um sistema de imobiliaria. O trabalho foi divido em três partes: construção do diagrama, desevolvimento do código e criação de telas.
 
-O trabalho não ficou 100%, falta algumas coisas para arrumar mas da pra ter um noção de como é.
+Classes:
+
+ <ul>
+    <li>Imovel</li>
+    <li>Residencial</li>
+    <li>Casa</li>
+    <li>Apartamento</li>
+    <li>SalaComercial</li>
+    <li>Terreno</li>
+    <li>Proprietario</li>
+    <li>Cliente</li>
+    <li>Usuario</li>
+    <li>Endereço</li>
+    <li>Funcionario</li>
+    <li>Corretores</li>
+    <li>Transação</li>
+ </ul>
+
+ Nas telas existem as opçoes: cadastrar, alterar, deletar e consultar.
